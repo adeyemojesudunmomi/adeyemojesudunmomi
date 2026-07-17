@@ -1,61 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Adeyemo Jesudunmomi Champion
 
-<!--
-I'm Adeyemo Jesudunmomi Champion
+## 🚀 Backend Developer | Shopify Website Developer
 
-### Agricultural & Environmental Engineering Student | Aspiring Backend Developer | Shopify Developer
-
-I'm a student at the **University of Ibadan** with a passion for building software that solves real-world problems.
-
-I'm currently learning backend development with **FastAPI** and improving my skills in web development. I enjoy creating practical projects, learning new technologies, and challenging myself with real-world applications.
-
-I'm actively looking for **remote internship**, **entry-level**, and **freelance** opportunities where I can learn, contribute, and grow as a developer.
+I'm a backend developer passionate about building scalable APIs and modern web applications using Python and FastAPI. I also develop Shopify websites and continuously improve my skills through real-world projects and self-learning.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** FastAPI
-- **Tools:** Git, GitHub, VS Code
-- **Platforms:** Shopify
+- Python
+- FastAPI
+- SQLite
+- SQLAlchemy
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Shopify
 
 ---
 
 ## 📂 Featured Projects
 
-### 📝 FastAPI Task Manager
-A REST API built with FastAPI for managing tasks, featuring CRUD operations and database integration.
+### 🚀 FastAPI Task Manager
+A RESTful Task Management API built with FastAPI, SQLite, SQLAlchemy, and Python.
 
 ### 🌍 Travel with Nimi
-A responsive travel agency website built to practice modern web development and responsive design.
+A responsive travel agency website built with HTML, CSS, and JavaScript.
 
 ---
 
 ## 🌱 Currently Learning
 
-- FastAPI
-- SQL & Database Design
-- React
-- REST APIs
-- Software Engineering Best Practices
+- Advanced Python
+- Backend Development
+- REST API Development
+- Software Engineering
+- Data Structures & Algorithms
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Career Goal
 
-- ✅ Land my first remote tech job
-- 🚀 Become a skilled backend developer
-- 🌍 Contribute to open-source projects
-- 📚 Keep learning and building impactful software
+I'm seeking remote opportunities where I can contribute, grow as a software developer, and build impactful solutions.
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 📧 **Email:** adeyemojesudunmomi@gmail.com
-- 💻 **GitHub:** https://github.com/adeyemojesudunmomi
+📧 Email: adeyemojesudunmomi@gmail.com
 
----
+🔗 GitHub: https://github.com/adeyemojesudunmomi
 
-⭐ *"Consistency beats perfection."*
+⭐ Thanks for visiting my profile!
